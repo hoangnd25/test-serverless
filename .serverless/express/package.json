@@ -1,0 +1,11 @@
+{
+  "name": "test-serverless",
+  "version": "1.0.0",
+  "description": "Packaged externals for test-serverless",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "express": ""
+  }
+}
